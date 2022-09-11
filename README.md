@@ -1,4 +1,4 @@
-# LAB_2
+# LAB_2_APPS_VIEWS_URLS
 
 ## Using what you learned , Create a new Django Project . With 1 app , which has a view handling the following path : 
 - home/
